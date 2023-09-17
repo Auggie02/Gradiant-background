@@ -1,0 +1,12 @@
+.backgr
+{
+    width: 100vw;
+    height: 100vh;
+}
+.txt
+{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    
+}
